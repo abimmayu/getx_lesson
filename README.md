@@ -1,6 +1,6 @@
 # getx_lesson
 
-A new Flutter project.
+My Flutter Project for Lesson with GetX State Management.
 
 ## Getting Started
 
